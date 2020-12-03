@@ -6,7 +6,7 @@
 <meta charset="utf-8"/>
  <link rel="stylesheet" href="styl.css">
   <style>
-    {color:red;}
+    {color:blue;}
   </style>
 </head>
 <body>
